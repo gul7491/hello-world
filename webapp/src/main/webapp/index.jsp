@@ -67,7 +67,7 @@ span.psw {
 </style>
 </head>
 <body>
-
+  <h1> welcome to myworld </h1>
 <h2>Login Form</h2>
 
 <form action="/action_page.php" method="post">
@@ -83,7 +83,7 @@ span.psw {
     <input type="password" placeholder="Enter Password" name="psw" required>
         
     <button type="submit">Login with id nd pass</button>
-    <button type="submit">fuck hard</button>
+    <button type="submit">chekck your registration </button>
     <label>
       <input type="checkbox" checked="checked" name="remember"> Remember me
     </label>
