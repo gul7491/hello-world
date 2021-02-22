@@ -84,6 +84,7 @@ span.psw {
         
     <button type="submit">Login with id nd pass</button>
     <button type="submit">chekck your registration </button>
+    <button type="submit">go back </button>
     <label>
       <input type="checkbox" checked="checked" name="remember"> Remember me
     </label>
