@@ -72,6 +72,7 @@ span.psw {
   <h3> Learning Platform </h3>
   <p>
          <a href="https://www.tutorialspoint.com/about/contact_us.htm">Contact</a>
+         <a herf="http://mygkgk.s3-website.ap-south-1.amazonaws.com">Application architecture</a>
   </p>
 
 <form action="/action_page.php" method="post">
