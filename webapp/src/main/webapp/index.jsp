@@ -131,7 +131,7 @@ span.psw {
 
 <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Login</button>
   <p>
-       <a href="https://mygkgk.s3.ap-south-1.amazonaws.com/Capture.PNG">AppDesign</a>
+       <a href="https://mygkgk.s3.ap-south-1.amazonaws.com/Capture.PNG">AppDesigns</a>
     </p>
 
 
